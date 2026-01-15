@@ -44,9 +44,9 @@ El acceso requiere siempre la contraseña definida por el usuario
 
 🛠️ Instalación
 
-Vault-10 se instala mediante un script de instalación incluido en este repositorio.
+Vault-10 se instala mediante un script de instalación incluido en este repositorio.Ejecutarlo desde el terminal abierto en la carpeta.
 
-install.sh
+sudo ./install.sh
 
 
 El proceso:
@@ -74,7 +74,7 @@ Cerrar la bóveda si está abierta
 
 Vault-10 puede eliminarse completamente del sistema usando:
 
-uninstall.sh
+sudo ./uninstall.sh
 
 
 Esto elimina:
