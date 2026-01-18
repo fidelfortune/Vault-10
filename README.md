@@ -97,8 +97,3 @@ Si pierdes la contraseña, los datos no se pueden recuperar.
 📜 Licencia
 
 Este proyecto se distribuye bajo la licencia incluida en el archivo LICENSE.
-
-
-Preparar una descripción corta para la página de GitHub
-
-Pensar en una vía futura de monetización sin romper la filosofía del proyecto
